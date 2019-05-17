@@ -31,7 +31,8 @@
     "gdpr": "",
     "siteUrl": "undefined",
     "uniqCompNum": 14,
-    "versionPublish": "4.9.7"
+    "versionPublish": "4.9.7",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
